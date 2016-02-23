@@ -19,7 +19,7 @@ config = {
   // ### Development **(default)**
   development: {
     // The url to use when providing links to the site, E.g. in RSS and email.
-    url: websiteUrl,
+    url: 'http://tucaoweekly.chinacloudsites.cn',
 
     // Visit http://support.ghost.org/mail for instructions
     mail: {
@@ -56,7 +56,7 @@ config = {
   // When running Ghost in the wild, use the production environment
   // Configure your URL and mail settings here
   production: {
-    url: websiteUrl,
+    url: 'http://tucaoweekly.chinacloudsites.cn',
 
     // Visit http://support.ghost.org/mail for instructions
     mail: {
