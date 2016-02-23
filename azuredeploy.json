@@ -80,7 +80,7 @@
       "siteConfig": {
         "appSettings": [{
           "name": "websiteUrl",
-          "value": "tucaoweekly"
+          "value": "http://tucaoweekly.chinacloudsites.cn/"
         }, {
           "name": "emailService",
           "value": "[parameters('Email Service')]"
